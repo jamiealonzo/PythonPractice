@@ -6,3 +6,5 @@ def greet_user(name):
 print("Start")
 greet_user("John Wick")
 print("Finish")
+
+#can also add another greet_user(name) to add another name.
